@@ -3,7 +3,7 @@
 I am ChuXin Wang, an undergraduate student from School of Information Science, University of Science and Technology of China, major in Automation. You could check out my [Homepage here](http://home.ustc.edu.cn/~wcx0602).
 
 <!--
-**ChuXin Wang/Jason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ChuXin Wang/Chuxwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
