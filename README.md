@@ -1,3 +1,4 @@
+## Hi there, I am ChuXin Wang 👋
 [![ChuXin Wang's github stats](https://github-readme-stats.vercel.app/api?username=Chuxwa)](https://github.com/anuraghazra/github-readme-stats)
 
 I am ChuXin Wang, an undergraduate student from School of Information Science, University of Science and Technology of China, major in Automation. You could check out my [Homepage here](http://home.ustc.edu.cn/~wcx0602).
